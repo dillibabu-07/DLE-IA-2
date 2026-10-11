@@ -1,0 +1,1 @@
+Optional: create `DBN_Analysis.ipynb` to explore MNIST samples, inspect learned RBM weights, and analyze the metrics generated in `results/`. The training script already creates the main visualizations.

@@ -1,0 +1,1 @@
+Run the training script to generate `metrics.json`, `confusion_matrix.png`, `classification_results.png`, and `learned_patterns.png` here. Do not submit placeholder or assumed results; include outputs produced by your own run.
